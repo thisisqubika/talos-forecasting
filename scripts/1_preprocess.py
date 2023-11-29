@@ -48,7 +48,7 @@ def feature_engineering(data, feature_column):
 
     
 def main():
-    file_path = 'data/proccessed_confirmed_cases_us.csv'
+    file_path = 'data/processed_confirmed_cases_us.csv'
     feature_column = 'cases'
 
     # Step 1: Load data
